@@ -27,3 +27,4 @@ def sendproc(event):
 msg.bind('<Return>',sendproc)
 tk.after(1000,loopproc)
 tk.mainloop()
+
